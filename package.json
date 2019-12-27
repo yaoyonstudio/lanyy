@@ -1,0 +1,20 @@
+{
+  "name": "lanyy",
+  "version": "1.0.0",
+  "description": "CLI tool for create awesome project.",
+  "bin": {
+    "lanyy": "./bin/index.js"
+  },
+  "keywords": [
+    "CLI",
+    "tool"
+  ],
+  "author": "Ken",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "inquirer": "^7.0.0",
+    "prompt": "^1.0.0",
+    "shelljs": "^0.8.3"
+  }
+}
